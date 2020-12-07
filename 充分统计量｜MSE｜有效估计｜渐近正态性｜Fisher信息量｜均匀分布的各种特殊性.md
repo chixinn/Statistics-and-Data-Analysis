@@ -34,7 +34,7 @@ $p(x;\theta_1,\theta_2)=\frac{1}{\theta_2-\theta_1}\Pi_i^n I(\theta_1<x<\theta_2
 
 1. 针对偏导求期望和方差，是针对x求的，而不是$\theta$
 2. 求一个估计参数的函数的Fisher信息 ![[公式]](https://www.zhihu.com/equation?tex=I%28g%28%5Ctheta%29%29+%3D+I%28%5Ctheta%29+%28%5Cfrac%7Bd%5Ctheta%7D%7Bdg%28%5Ctheta%29%7D%29%5E2) 
-3. 
+3. 单一观测值与有n个i.i.d观测值影响下的Fisher信息量。
 
 
 
